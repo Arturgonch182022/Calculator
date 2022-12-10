@@ -3,4 +3,4 @@ project(calculator)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(calc main.cpp)
+add_executable(calc main.cpp a.cpp)
