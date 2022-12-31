@@ -1,0 +1,20 @@
+# ninja log v5
+15	1194	6941756267613426	CMakeFiles/calc.dir/main.cpp.obj	dd654e7b7f672d9e
+1112	1845	6941227394334740	calc.exe	b76a264c928fca2e
+25	1446	6936941184720582	CMakeFiles/calc.dir/a.cpp.obj	d55dfde7ccdd410d
+21	222	6939606525603078	CMakeFiles/calc.dir/programmer.cpp.obj	6dd79cd7fdcdb22d
+13	2416	6941097907171490	CMakeFiles/calc.dir/sorting.cpp.obj	53309304eee7f114
+41	1450	6936941184720582	CMakeFiles/calc.dir/functions.cpp.obj	c8cfd3a6225f66b2
+22	1216	6941756267873885	CMakeFiles/calc.dir/scientific.cpp.obj	cd09928d045fb82
+6	1293	6939615063739967	CMakeFiles/calc.dir/defoult.cpp.obj	9095d6b64c660889
+13	852	6941227384455472	CMakeFiles/calc.dir/Date_Calculation.cpp.obj	4d7e9f95e117c096
+6	1159	6941763522917597	CMakeFiles/calc.dir/main.cpp.obj	dd654e7b7f672d9e
+13	1169	6941763523006898	CMakeFiles/calc.dir/scientific.cpp.obj	cd09928d045fb82
+6	1038	6941765936740944	CMakeFiles/calc.dir/scientific.cpp.obj	cd09928d045fb82
+7	1072	6941766463626751	CMakeFiles/calc.dir/main.cpp.obj	dd654e7b7f672d9e
+14	1085	6941766463766420	CMakeFiles/calc.dir/scientific.cpp.obj	cd09928d045fb82
+6	1017	6941766675166756	CMakeFiles/calc.dir/scientific.cpp.obj	cd09928d045fb82
+6	1050	6941767965665874	CMakeFiles/calc.dir/scientific.cpp.obj	cd09928d045fb82
+1051	1371	6941767968812060	calc.exe	c543221a5a121509
+6	1031	6941769898765220	CMakeFiles/calc.dir/scientific.cpp.obj	cd09928d045fb82
+1032	1341	6941769901795589	calc.exe	c543221a5a121509
